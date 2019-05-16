@@ -1,0 +1,30 @@
+  :root {
+    background: url(dark-triangles.png), repeating;
+    position: relative;
+  }
+
+  html {
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+
+  body {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    color:#00FFB6;
+    line-height: 1.8rem;
+    letter-spacing: .2px;
+    font-size: 1rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    text-align: center;
+    background: #150C6D;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    width: 100%;
+    height: 100%;
+  }
